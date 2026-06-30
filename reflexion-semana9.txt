@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas funcionen de manera estable 
+y segura porque muchas comunidades dependen de ellas para comunicarse, reportar 
+problemas y acceder a información. Un servidor estable reduce las interrupciones 
+del servicio y mejora la experiencia de los usuarios. Además, la seguridad protege 
+la información personal y evita accesos no autorizados. El monitoreo y los registros 
+de actividad permiten detectar errores y responder rápidamente a cualquier inconveniente. 
+Todo esto genera confianza en la plataforma y garantiza que los servicios digitales estén 
+disponibles cuando la comunidad los necesite. Una infraestructura confiable contribuye al 
+buen funcionamiento de los procesos comunitarios y fortalece la participación ciudadana.
